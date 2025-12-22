@@ -3,4 +3,4 @@ r=float(input("Nhập chiều rộng: "))
 c=(d+r)*2
 s=d*r
 print(f"chu vi hcn là:{c:.2f}")
-print(f"diện tích hcn là:{s:2f}")
+print(f"diện tích hcn là:{s:.2f}")
