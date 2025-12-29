@@ -1,0 +1,10 @@
+a=int(input("nhập số nguyên a :"))
+b=int(input("nhập số nguyên b :"))
+phep_cong=a+b
+phep_tru=a-b
+phep_nhan=a*b
+phep_chia=a//b
+print(f"tổng hai số ={phep_cong}")
+print(f"hiệu hai số ={phep_tru}")
+print(f"tích hai số ={phep_nhan}")
+print(f"thương hai số ={phep_chia}")
